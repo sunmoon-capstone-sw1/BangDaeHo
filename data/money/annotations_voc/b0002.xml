@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5000won</folder>
+	<filename>b0002.JPG</filename>
+	<path>C:\Users\USER\OneDrive\바탕 화면\5000won\b0002.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>17</ymin>
+			<xmax>815</xmax>
+			<ymax>1253</ymax>
+		</bndbox>
+	</object>
+</annotation>

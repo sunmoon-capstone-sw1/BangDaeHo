@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10000won</folder>
+	<filename>c00040.JPG</filename>
+	<path>/Users/iwasakimegumi/Downloads/10000won/c00040.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>638</ymin>
+			<xmax>807</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>

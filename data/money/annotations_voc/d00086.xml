@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drive-download-20211102T100850Z-001</folder>
+	<filename>d00086.JPG</filename>
+	<path>/Users/yamamotoyoshika/Downloads/drive-download-20211102T100850Z-001/d00086.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50000</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>610</ymin>
+			<xmax>936</xmax>
+			<ymax>1280</ymax>
+		</bndbox>
+	</object>
+</annotation>
